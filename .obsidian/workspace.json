@@ -1,0 +1,44 @@
+{
+  "main": {
+    "id": "e2f791e0b672519d",
+    "type": "split",
+    "children": [
+      {
+        "id": "97f2d1ab0b935e9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ae550517b77d372",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16063db698380496",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "98fa9239fd8a10d0",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {}
+  },
+  "active": "4ae550517b77d372",
+  "lastOpenFiles": []
+}

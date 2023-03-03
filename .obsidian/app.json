@@ -1,0 +1,14 @@
+{
+  "readableLineLength": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showIndentGuide": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "smartIndentList": false,
+  "useTab": false,
+  "autoConvertHtml": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "useMarkdownLinks": false
+}
